@@ -37,8 +37,8 @@ src/
 
 This project was built iteratively through a designer-engineer conversation using Claude Code. Two files in the repo document the process:
 
-- **[PLAN.md](PLAN.md)** — The initial implementation plan: 6 phases covering architecture, data enrichment, and UI structure.
-- **[Feedback.md](Feedback.md)** — A real-time log of every design decision and refinement, from the first layout pass to final pixel adjustments. The plan set the direction; the feedback loop shaped the result.
+- **[PLAN.md](PLAN.md)** — The original architecture plan: engine design, layout strategy, component model, and key principles decided before writing any code.
+- **[ITERATIONS.md](ITERATIONS.md)** — A real-time log of every design decision and UI refinement, from the first layout pass to final pixel adjustments. The plan set the direction; the feedback loop shaped the result.
 
 ## Run locally
 
