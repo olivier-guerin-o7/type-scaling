@@ -6,6 +6,7 @@ import fonts from './src/data/fonts.json' with { type: 'json' };
 const fontMetricsDeps = fonts.map(f => `@capsizecss/metrics/${f.slug}`);
 
 export default defineConfig({
+  base: '/type-scaling/',
   root: '.',
   publicDir: 'public',
   build: {
